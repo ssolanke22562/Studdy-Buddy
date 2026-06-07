@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "mock_db.json",
+    "node_modules/**",
+    "src/models/**"
+  ],
+  "ext": "js,mjs,cjs"
+}
